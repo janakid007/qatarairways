@@ -1,0 +1,322 @@
+@charset "utf-8";
+*{
+	padding: 0 auto;
+	margin: 0 auto;
+}
+#wrap{
+	width:1264px;
+	height:1400px;
+	background-color:#6c1d4c;
+	
+}
+#banner{
+	width:603px;
+	height:1239px;
+	background-color: #7b345e;
+}
+#box{
+	width:580px;
+	height:1188px;
+	background-color: white;
+	margin-top: 7px;
+	display: inline-block;
+	margin-left:11px;
+}
+.logo{
+	margin-top: 24px;
+	margin-left: 20px;
+}
+
+.parah1{
+     float: right;
+	 margin-right: 16px;
+	margin-top: -38px;
+}
+.line{
+	width:550px;
+	border: 1px solid grey;
+	margin-top: 28px;
+	
+}
+.navbar{
+	margin-left: 16px;
+	margin-top: 9px;
+
+}
+.navbar a{
+	text-decoration: none;
+	color:#6c1d4c;
+}
+.parah{
+	color:white;
+	margin-top: 10px;
+	display: inline-block;
+	margin-left: 26px;
+	
+}
+.image{
+margin-top: 11px;	
+
+}
+.parah2{
+	margin-left: 16px;
+	margin-top: 7px;
+}
+.parah3{
+	margin-left: 16px;
+	margin-top: 7px;
+	
+}
+.parah4{
+	margin-left: 16px;
+	margin-top: 15px;
+    text-transform: capitalize;
+	color:#6c1d4c;
+}
+.parah5{
+	margin-left: 55px;
+	margin-top: -18px;
+}
+.parah6{
+	margin-left: 16px;
+	margin-top: 15px;
+}
+.parah7{
+	margin-left: 16px;
+	margin-top: 15px;
+}
+.line2{
+	width:550px;
+	border: 1px solid grey;
+	margin-top: 2px;
+}
+.parah8{
+	font-size: 20px;
+	color:black;
+	margin-left: 16px;
+	margin-top: 21px;
+	text-transform: capitalize;
+}
+.parah9{
+	float: right;
+	margin-right: 35px;
+	margin-top: -19px;
+	color:#6c1d4c;
+}
+.image1{
+	float: right;
+	margin-top: -17px;
+	margin-right: 16px;
+}
+.box1{
+	width:546px;
+	height:31px;
+	background-color:#6c1d4c;
+	margin-top: 8px;
+}
+.parah10{
+	margin-left:25px;
+	margin-top: -26px;
+	color: white;
+}
+.line3{
+	width:253px;
+	border: 1px solid grey;
+	float: left;
+	margin-left: 21px;
+	margin-top: 17px;
+}
+.line4{
+	width:253px;
+	border: 1px solid grey;
+	float: right;
+	margin-right: 21px;
+	margin-top: 17px;
+}
+.image2{
+	float: right;
+	margin-right: 544px;
+	margin-top: 5px;
+}
+.parah11{
+	float: left;
+	margin-left: 40px;
+	margin-top: -21px;
+	color:#6c1d4c;
+	font-size: 15px;
+}
+.parah12{
+	float: left;
+	margin-left: 22px;
+	margin-top: 9px;
+}
+.image3{
+	float: right;
+	margin-right: 260px;
+	margin-top:-19px;
+}
+.parah13{
+	float: right;
+	margin-top: -21px;
+	margin-right: 190px;
+	color:#6c1d4c;
+}
+.parah14{
+	float: left;
+	margin-top: 9px;
+	margin-left: 74px;
+	
+}
+.line5{
+	width:253px;
+	border: 1px solid grey;
+	float: left;
+	margin-left: 21px;
+	margin-top: 17px;
+}
+.line6{
+	width:253px;
+	border: 1px solid grey;
+	float: right;
+	margin-right: 21px;
+	margin-top: 17px;
+}
+.image4{
+    float: left;
+	margin-left: 21px;
+	margin-top: 3px;
+}
+.parah15{
+	float: left;
+	margin-left: 5px;
+	color:#6c1d4c;
+}
+.parah16{
+	float: left;
+	margin-left: -70px;
+	margin-top: 30px;
+}
+.image5{
+	float: right;
+	margin-right: 260px;
+	margin-top: 4px;
+}
+.parah17{
+	color:#6c1d4c;
+	float:left;
+	margin-left: 87px;
+    margin-top: -20px;
+}
+.parah18{
+	float: left;
+	margin-top: 9px;
+	margin-left: 71px;
+}
+.line7{
+	width:253px;
+	border: 1px solid grey;
+	float: left;
+	margin-left: 21px;
+	margin-top: 14px;
+}
+.line8{
+	width:253px;
+	border: 1px solid grey;
+	float: right;
+	margin-right: 21px;
+	margin-top: 14px;
+}
+.parah19{
+	color:#6c1d4c;
+	float:left;
+	margin-left: 18px;
+	margin-top: 15px;
+}
+.box2{
+	width:546px;
+	height:40px;
+	background-color: #828c95;
+	margin-top: 195px;
+}
+.parah20{
+	line-height: 38px;
+	margin-left: 13px;
+}
+.parah21{
+   margin-left: 187px;
+   margin-top: -113px;
+   color:#6c1d4c; 
+}
+.parah22{
+	margin-left:185px;
+	margin-top: 5px;
+}
+.parah23{
+	color:#6c1d4c;
+	margin-left: 185px;
+	margin-top: 5px;
+}
+.image7{
+	margin-left: 286px;
+	margin-top: -17px;
+}
+.line9{
+	width:560px;
+	border:1px solid grey;
+}
+.parah24{
+	margin-left: 20px;
+	color:#6c1d4c;
+	margin-top: 15px;
+}
+.navbar1{
+	margin-left: 343px;
+	margin-top: 10px;
+}
+.navbar1 a{
+	text-decoration:none;
+	color:white;
+	
+}
+.line10{
+	width:572px;
+	border:1px solid white; 
+	margin-top: 20px;
+	margin-left: 345px;
+}
+.parah25{
+   margin-left:345px;
+   color:white;
+   margin-top: 2px;
+
+}
+.parah26{
+	color:white;
+	margin-left: 345px;
+	margin-top: 14px;
+}
+.button{
+	cursor: progress;
+	float: right;
+	margin-top: -27px;
+	margin-right: 42px;
+	width: 180px;
+	height:34px;
+	font-size: 15px;
+	background-color:deepskyblue;
+	
+}
+.button:hover{
+	background-color:#6c1d4c;
+	color:white;
+	border:none;
+}
+body{
+	background-color: lawngreen;
+}
+@media only screen and  (max-width: 600px){
+	body {
+		background-color: red;
+	}
+
+}
